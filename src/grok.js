@@ -92,18 +92,18 @@ class Grok {
   }
 }
 
-async function main() {
-  const chat = new Grok();
-  await chat.init();
+// async function main() {
+//   const chat = new Grok();
+//   await chat.init();
 
-  const response = await chat.query({
-    model: 'grok-3',
-    message: 'Привєт. Як ся маєш?'
-  });
+//   const response = await chat.query({
+//     model: 'grok-3',
+//     message: 'Привєт. Як ся маєш?'
+//   });
 
-  console.log('Grok response:\n', response);
+//   console.log('Grok response:\n', response);
 
-  await chat.close();
-}
+//   await chat.close();
+// }
 
-await main();
+// await main();

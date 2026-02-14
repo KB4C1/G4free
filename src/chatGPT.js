@@ -87,18 +87,18 @@ class ChatGPT {
   }
 }
 
-async function main() {
-  const chat = new ChatGPT();
-  await chat.init();
+// async function main() {
+//   const chat = new ChatGPT();
+//   await chat.init();
 
-  const response = await chat.query({
-    model: 'gpt-4',
-    message: 'Привєт. Як ся маєш?'
-  });
+//   const response = await chat.query({
+//     model: 'gpt-4',
+//     message: 'Привєт. Як ся маєш?'
+//   });
 
-  console.log('ChatGPT response:\n', response);
+//   console.log('ChatGPT response:\n', response);
 
-  await chat.close();
-}
+//   await chat.close();
+// }
 
-await main();
+// await main();
