@@ -1,0 +1,15 @@
+2026/02/14-10:45:15.541 60e4 Reusing MANIFEST D:\main\special\js\g4free\src\profile\Default\Local Storage\leveldb/MANIFEST-000001
+2026/02/14-10:45:15.550 60e4 Recovering log #52
+2026/02/14-10:45:15.552 60e4 Reusing old log D:\main\special\js\g4free\src\profile\Default\Local Storage\leveldb/000052.log 
+2026/02/14-10:45:22.551 58d8 Level-0 table #56: started
+2026/02/14-10:45:22.561 58d8 Level-0 table #56: 61534 bytes OK
+2026/02/14-10:45:22.564 58d8 Delete type=0 #52
+2026/02/14-10:45:22.565 58d8 Compacting 4@0 + 1@1 files
+2026/02/14-10:45:22.575 58d8 Generated table #57@0: 608 keys, 64719 bytes
+2026/02/14-10:45:22.575 58d8 Compacted 4@0 + 1@1 files => 64719 bytes
+2026/02/14-10:45:22.576 58d8 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/02/14-10:45:22.578 58d8 Delete type=2 #44
+2026/02/14-10:45:22.578 58d8 Delete type=2 #47
+2026/02/14-10:45:22.578 58d8 Delete type=2 #50
+2026/02/14-10:45:22.578 58d8 Delete type=2 #53
+2026/02/14-10:45:22.578 58d8 Delete type=2 #56

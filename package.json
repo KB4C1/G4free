@@ -1,0 +1,19 @@
+{
+  "name": "g4free",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/KB4C1/G4free#readme",
+  "bugs": {
+    "url": "https://github.com/KB4C1/G4free/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KB4C1/G4free.git"
+  },
+  "license": "MIT",
+  "author": "KB4C1",
+  "type": "module",
+  "dependencies": {
+    "puppeteer": "^24.37.3"
+  }
+}

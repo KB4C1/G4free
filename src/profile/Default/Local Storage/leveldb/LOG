@@ -1,0 +1,6 @@
+2026/02/14-10:45:44.943 388c Reusing MANIFEST D:\main\special\js\g4free\src\profile\Default\Local Storage\leveldb/MANIFEST-000001
+2026/02/14-10:45:44.951 388c Recovering log #55
+2026/02/14-10:45:44.953 388c Reusing old log D:\main\special\js\g4free\src\profile\Default\Local Storage\leveldb/000055.log 
+2026/02/14-10:45:52.092 11d0 Level-0 table #60: started
+2026/02/14-10:45:52.101 11d0 Level-0 table #60: 59910 bytes OK
+2026/02/14-10:45:52.105 11d0 Delete type=0 #55
