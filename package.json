@@ -15,5 +15,22 @@
   "type": "module",
   "dependencies": {
     "puppeteer": "^24.37.3"
-  }
+  },
+  "devDependencies": {
+    "esbuild": "^0.27.3"
+  },
+  "scripts": {
+    "build": "esbuild src/index.js --bundle --platform=node --target=node18 --outdir=dist --format=esm --external:typescript",
+    "prepare": "npm run build"
+  },
+  "main": "dist/index.js",
+  "exports": {
+    ".": {
+      "import": "./dist/index.js"
+    }
+  },
+  "files": [
+    "dist/"
+  ]
 }
+

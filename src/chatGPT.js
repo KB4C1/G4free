@@ -102,3 +102,5 @@ class ChatGPT {
 // }
 
 // await main();
+
+export default ChatGPT;
